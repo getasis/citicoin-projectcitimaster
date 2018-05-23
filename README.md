@@ -2,7 +2,7 @@
 citicoin integration/staging tree
 ================================
 
-http://www.citicoption.com
+http://www.citioption.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 citicoin Developers
